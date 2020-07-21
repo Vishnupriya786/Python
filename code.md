@@ -1,17 +1,17 @@
 # Solve Me First
+```
+ Function prototype:
 
-## Function prototype:
+ int solveMeFirst(int a, int b);
 
-## int solveMeFirst(int a, int b);
+ where,
 
-## where,
+ a is the first integer input.
+ b is the second integer input
+ Return values
 
-## a is the first integer input.
-## b is the second integer input
-## Return values
-
-## sum of the above two integers
-
+ sum of the above two integers
+```
 ```
 Sample Input
 
