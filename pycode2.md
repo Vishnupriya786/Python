@@ -18,13 +18,14 @@ Sample Output
 31
 ```
 ```
-def simpleArraySum(ar):
-    total= sum(ar)
+def simpleArraySum(array):
+    total= sum(array)
     return total
 ar_count = int(input())
 
-ar = list(map(int, input().rstrip().split()))
+array = list(map(int, input().rstrip().split()))
 
-result = simpleArraySum(ar)   
+result = simpleArraySum(array)
+print(result)
 
 ```
